@@ -28,7 +28,6 @@ EOF
 kind create cluster --image kindest/node:v1.16.4 --config kind-multi-node.yml --name 116
 
 helm repo add quarks https://cloudfoundry-incubator.github.io/quarks-helm/
-helm search repo quarks
 helm install cf-operator quarks/cf-operator
 
 kubectl config set-context --current --namespace staging
