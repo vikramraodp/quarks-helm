@@ -3,7 +3,7 @@ entries:
   cf-operator:
   - apiVersion: v1
     appVersion: 3.3.0+0.gf32b521e
-    created: "2020-03-23T10:04:23.260617885Z"
+    created: "2020-03-23T11:43:13.003732367Z"
     description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
       releases
     digest: 522a8d3fe480db90f2fb3b4a2fa62a5aed60c1d5eb526e6f627f0e70dbba2434
@@ -27,7 +27,7 @@ entries:
     version: 3.3.0+0.gf32b521e
   - apiVersion: v1
     appVersion: 3.2.1+0.ga32a3f79
-    created: "2020-03-23T10:04:23.259683749Z"
+    created: "2020-03-23T11:43:13.00277456Z"
     description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
       releases
     digest: 93bc3cae7f7e2ae79f5644daf77cdeabb25a30a8a8a44d39035bc2ec5684967d
@@ -51,7 +51,7 @@ entries:
     version: 3.2.1+0.ga32a3f79
   - apiVersion: v1
     appVersion: 3.2.0+0.g178ecd31
-    created: "2020-03-23T10:04:23.258704545Z"
+    created: "2020-03-23T11:43:13.00179215Z"
     description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
       releases
     digest: bc981e8e62231147c382a497cd095b256a5970111f7f4329a795ebef5e1fbb80
@@ -75,7 +75,7 @@ entries:
     version: 3.2.0+0.g178ecd31
   - apiVersion: v1
     appVersion: 3.1.0+0.gd5ad8a7d
-    created: "2020-03-23T10:04:23.257771688Z"
+    created: "2020-03-23T11:43:13.000803771Z"
     description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
       releases
     digest: f1714017219bab26214924e04800b2d20ac585d0c0ac7e8411fc345774b5eda8
@@ -99,7 +99,7 @@ entries:
     version: 3.1.0+0.gd5ad8a7d
   - apiVersion: v1
     appVersion: 3.0.0+0.g4e1038ed
-    created: "2020-03-23T10:04:23.256380372Z"
+    created: "2020-03-23T11:43:12.999413921Z"
     description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
       releases
     digest: 5bf0b698bc1f984f3f98a60d636ad5820b7486cfd426597b9ca64f69b01b6e96
@@ -123,7 +123,7 @@ entries:
     version: 3.0.0+0.g4e1038ed
   - apiVersion: v1
     appVersion: 2.3.0+0.g27a91cdf
-    created: "2020-03-23T10:04:23.2550688Z"
+    created: "2020-03-23T11:43:12.998176604Z"
     description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
       releases
     digest: 78d2266d127980806c5e6eabca1fdab0f968eba7c63a06167b906fab75c989f7
@@ -147,7 +147,7 @@ entries:
     version: 2.3.0+0.g27a91cdf
   - apiVersion: v1
     appVersion: 2.2.0-0.g3dce81dc
-    created: "2020-03-23T10:04:23.25378985Z"
+    created: "2020-03-23T11:43:12.996905104Z"
     description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
       releases
     digest: 16c073821e0fe0db979ac00617b943b6ad72ac28cfcfd9b45fbd8b40a3711869
@@ -172,7 +172,7 @@ entries:
   quarks-job:
   - apiVersion: v1
     appVersion: 0.0.0+0.g0e3d5f3
-    created: "2020-03-23T10:04:23.261109975Z"
+    created: "2020-03-23T11:43:13.004223998Z"
     description: A Helm chart for quarks-job, a k8s operator for quarks jobs
     digest: 435b69e4eab5e29ba9f8df9f6d31197721aba104c08681e02cd1b2c65f477aa5
     home: https://github.com/cloudfoundry-incubator/quarks-job
@@ -193,7 +193,7 @@ entries:
     version: 0.0.0+0.g0e3d5f3
   - apiVersion: v1
     appVersion: 0.0.0+0.g7bbbf78
-    created: "2020-03-23T10:04:23.262504912Z"
+    created: "2020-03-23T11:43:13.00564001Z"
     description: A Helm chart for quarks-job, a k8s operator for quarks jobs
     digest: 36abb4eabcda2ed979e3a93734264cb17a49c2e583816ebdefbf24e18c8ccdee
     home: https://github.com/cloudfoundry-incubator/quarks-job
@@ -212,4 +212,25 @@ entries:
     urls:
     - quarks-job-0.0.0+0.g7bbbf78.tgz
     version: 0.0.0+0.g7bbbf78
-generated: "2020-03-23T10:04:23.252256686Z"
+  - apiVersion: v1
+    appVersion: 0.0.0+0.gb262963
+    created: "2020-03-23T11:43:13.00669982Z"
+    description: A Helm chart for quarks-job, a k8s operator for quarks jobs
+    digest: ebbc1ce469dbec3926ea60edc161824ac8b9c19a8cdef5addfc2f7494afc4af6
+    home: https://github.com/cloudfoundry-incubator/quarks-job
+    icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
+    keywords:
+    - quarks
+    - job
+    - output
+    maintainers:
+    - email: project-quarks@googlegroups.com
+      name: project-quarks
+    name: quarks-job
+    sources:
+    - https://github.com/cloudfoundry-incubator/quarks-job
+    - https://github.com/cfcontainerizationbot/cf-operator-base
+    urls:
+    - quarks-job-0.0.0+0.gb262963.tgz
+    version: 0.0.0+0.gb262963
+generated: "2020-03-23T11:43:12.995393372Z"
