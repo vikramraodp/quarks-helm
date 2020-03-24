@@ -10,6 +10,7 @@ The cf-operator manages the deployment of BOSH releases on Kubernetes.
 ```
 helm repo add quarks https://cloudfoundry-incubator.github.io/quarks-helm/
 helm search repo quarks
+helm show readme quarks/cf-operator
 helm install cf-operator quarks/cf-operator
 ```
 
