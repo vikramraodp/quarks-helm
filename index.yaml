@@ -786,6 +786,27 @@ entries:
     - quarks-job-0.0.165-g20eecd8.tgz
     version: 0.0.165-g20eecd8
   - apiVersion: v1
+    appVersion: 0.0.165-g0caa374
+    created: "2020-06-16T15:34:41.131743396Z"
+    description: A Helm chart for quarks-job, a k8s operator for quarks jobs
+    digest: 2f57779d2adcf759abc50c6b444a84d931dc06b79838e5a32c8649f83aa0a6e5
+    home: https://github.com/cloudfoundry-incubator/quarks-job
+    icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
+    keywords:
+    - quarks
+    - job
+    - output
+    maintainers:
+    - email: project-quarks@googlegroups.com
+      name: project-quarks
+    name: quarks-job
+    sources:
+    - https://github.com/cloudfoundry-incubator/quarks-job
+    - https://github.com/cfcontainerizationbot/cf-operator-base
+    urls:
+    - quarks-job-0.0.165-g0caa374.tgz
+    version: 0.0.165-g0caa374
+  - apiVersion: v1
     appVersion: 0.0.164-g02a2b7f
     created: "2020-06-16T14:41:29.069345969Z"
     description: A Helm chart for quarks-job, a k8s operator for quarks jobs
@@ -1856,4 +1877,4 @@ entries:
     urls:
     - quarks-job-0.0.77.tgz
     version: 0.0.77
-generated: "2020-06-16T15:09:39.798943005Z"
+generated: "2020-06-16T15:34:41.130861095Z"
