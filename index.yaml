@@ -2474,7 +2474,7 @@ entries:
     version: 0.0.124-gea0d21b
   - apiVersion: v1
     appVersion: 0.0.124-gb422029
-    created: "2020-07-07T08:39:09.479684316Z"
+    created: "2020-07-08T07:10:14.673891126Z"
     description: A Helm chart for quarks-job, a k8s operator for quarks jobs
     digest: a8eb6cade3eb9ede898aa9368b1a74a8b8a528f869ad340b8d1c1fdaa73c5e53
     home: https://github.com/cloudfoundry-incubator/quarks-job
@@ -3045,4 +3045,4 @@ entries:
     urls:
     - quarks-secret-0.0.677-ga060bb6.tgz
     version: 0.0.677-ga060bb6
-generated: "2020-07-08T07:02:17.922455343Z"
+generated: "2020-07-08T07:10:14.673061522Z"
