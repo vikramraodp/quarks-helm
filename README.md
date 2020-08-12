@@ -29,7 +29,7 @@ EOF
 kind create cluster --image kindest/node:v1.16.4 --config kind-multi-node.yml --name 116
 
 helm repo add quarks https://cloudfoundry-incubator.github.io/quarks-helm/
-helm install cf-operator quarks/cf-operator
+helm install cf-operator quarks/cf-operator --wait
 
 kubectl config set-context --current --namespace staging
 kubectl apply -f https://raw.githubusercontent.com/cloudfoundry-incubator/cf-operator/master/docs/examples/bosh-deployment/boshdeployment.yaml
