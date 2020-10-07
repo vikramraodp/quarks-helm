@@ -2,6 +2,39 @@ apiVersion: v1
 entries:
   cf-operator:
   - apiVersion: v1
+    appVersion: 6.1.14+0.g22ccdd3a
+    created: "2020-10-07T23:08:17.752113506Z"
+    dependencies:
+    - name: quarks-job
+      repository: https://cloudfoundry-incubator.github.io/quarks-helm
+      version: 1.0.206
+    - name: quarks-secret
+      repository: https://cloudfoundry-incubator.github.io/quarks-helm
+      version: 1.0.744
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
+      releases
+    digest: f8a9a5b342e34476d121c8d6885fbe4ca93267ea679eea8d88d2285e2414cf94
+    home: https://github.com/cloudfoundry-incubator/cf-operator
+    icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
+    keywords:
+    - cloudfoundry
+    - bosh
+    - quarks
+    - deployment
+    maintainers:
+    - email: project-quarks@googlegroups.com
+      name: project-quarks
+    name: cf-operator
+    sources:
+    - https://github.com/cloudfoundry-incubator/cf-operator
+    - https://github.com/cloudfoundry-incubator/quarks-job
+    - https://github.com/cloudfoundry-incubator/quarks-secret
+    - https://github.com/cloudfoundry-incubator/quarks-utils
+    - https://build.opensuse.org/package/show/Cloud:Platform:quarks/quarks-operator-base
+    urls:
+    - cf-operator-6.1.14+0.g22ccdd3a.tgz
+    version: 6.1.14+0.g22ccdd3a
+  - apiVersion: v1
     appVersion: 6.1.12+0.gfc4e8327
     created: "2020-10-07T00:23:33.468457198Z"
     dependencies:
@@ -9104,4 +9137,4 @@ entries:
     urls:
     - quarks-secret-0.0.677-ga060bb6.tgz
     version: 0.0.677-ga060bb6
-generated: "2020-10-07T00:23:33.465243547Z"
+generated: "2020-10-07T23:08:17.748961609Z"
