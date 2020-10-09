@@ -4372,7 +4372,7 @@ entries:
   quarks-secret:
   - apiVersion: v1
     appVersion: 1.0.745
-    created: "2020-09-28T09:42:03.757769004Z"
+    created: "2020-10-09T09:29:30.064022725Z"
     description: A Helm chart for quarks-secret, a k8s operator to create secrets
     digest: 183e1e8d3fadef64b752eea561f38d60d7331c893798d8831dcecc9436ce6084
     home: https://github.com/cloudfoundry-incubator/quarks-secret
@@ -9170,4 +9170,4 @@ entries:
     urls:
     - quarks-secret-0.0.677-ga060bb6.tgz
     version: 0.0.677-ga060bb6
-generated: "2020-10-08T07:06:11.180807639Z"
+generated: "2020-10-09T09:29:30.063146196Z"
