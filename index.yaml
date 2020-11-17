@@ -6044,6 +6044,26 @@ entries:
     - quarks-secret-0.0.750-gdfc27b9.tgz
     version: 0.0.750-gdfc27b9
   - apiVersion: v1
+    appVersion: 0.0.750-g79c9c96
+    created: "2020-11-17T15:59:27.669635833Z"
+    description: A Helm chart for quarks-secret, a k8s operator to create secrets
+    digest: 27b2133847a598bf6ed752987ef67e12f975a2266c4d501d9a05a00e58057a17
+    home: https://github.com/cloudfoundry-incubator/quarks-secret
+    icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
+    keywords:
+    - quarks
+    - secret
+    - rotation
+    maintainers:
+    - email: project-quarks@googlegroups.com
+      name: project-quarks
+    name: quarks-secret
+    sources:
+    - https://github.com/cloudfoundry-incubator/quarks-secret
+    urls:
+    - quarks-secret-0.0.750-g79c9c96.tgz
+    version: 0.0.750-g79c9c96
+  - apiVersion: v1
     appVersion: 0.0.750-g5e246d0
     created: "2020-10-27T16:28:47.530637731Z"
     description: A Helm chart for quarks-secret, a k8s operator to create secrets
@@ -10626,4 +10646,4 @@ entries:
     urls:
     - quarks-statefulset-0.0.1304-g4b4f2ac5.tgz
     version: 0.0.1304-g4b4f2ac5
-generated: "2020-11-17T15:54:51.424324554Z"
+generated: "2020-11-17T15:59:27.668614101Z"
