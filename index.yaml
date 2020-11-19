@@ -1141,6 +1141,42 @@ entries:
     urls:
     - quarks-7.0.0-pre.0.tgz
     version: 7.0.0-pre.0
+  - apiVersion: v1
+    appVersion: 7.0.0-0.gab58b83
+    created: "2020-11-19T18:47:57.022005762Z"
+    dependencies:
+    - name: quarks-job
+      repository: https://cloudfoundry-incubator.github.io/quarks-helm
+      version: 1.0.213
+    - name: quarks-secret
+      repository: https://cloudfoundry-incubator.github.io/quarks-helm
+      version: 1.0.754
+    - name: quarks-statefulset
+      repository: https://cloudfoundry-incubator.github.io/quarks-helm
+      version: 0.0.1308-g6a8b2220
+    description: A Helm chart for quarks-operator, the k8s operator for deploying
+      BOSH releases
+    digest: fa82e258d6e647ccc033dcd20b7464493bd68a22e122804378982fc9fded416e
+    home: https://github.com/cloudfoundry-incubator/quarks-operator
+    icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
+    keywords:
+    - cloudfoundry
+    - bosh
+    - quarks
+    - deployment
+    maintainers:
+    - email: project-quarks@googlegroups.com
+      name: project-quarks
+    name: quarks
+    sources:
+    - https://github.com/cloudfoundry-incubator/quarks-operator
+    - https://github.com/cloudfoundry-incubator/quarks-job
+    - https://github.com/cloudfoundry-incubator/quarks-secret
+    - https://github.com/cloudfoundry-incubator/quarks-utils
+    - https://build.opensuse.org/package/show/Cloud:Platform:quarks/quarks-operator-base
+    urls:
+    - quarks-7.0.0-0.gab58b83.tgz
+    version: 7.0.0-0.gab58b83
   quarks-job:
   - apiVersion: v1
     appVersion: 1.0.213
@@ -10849,4 +10885,4 @@ entries:
     urls:
     - quarks-statefulset-0.0.1304-g4b4f2ac5.tgz
     version: 0.0.1304-g4b4f2ac5
-generated: "2020-11-19T10:16:28.942612185Z"
+generated: "2020-11-19T18:47:57.019379366Z"
