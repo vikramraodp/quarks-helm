@@ -1107,7 +1107,7 @@ entries:
   quarks:
   - apiVersion: v1
     appVersion: 7.0.3+0.g761424c
-    created: "2020-11-21T00:31:48.229477286Z"
+    created: "2020-11-21T01:20:51.472182359Z"
     dependencies:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
@@ -1120,7 +1120,7 @@ entries:
       version: 0.0.1308-g6a8b2220
     description: A Helm chart for quarks-operator, the k8s operator for deploying
       BOSH releases
-    digest: 6895c579683e14402e1876807674bb7868f1be1c366448e1a2b94bc4ad2c6083
+    digest: bf73176957e9753a2f263796c0a6d4c6c811ca05ab9142da9eee67f22fd2ac5b
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
     keywords:
@@ -10885,4 +10885,4 @@ entries:
     urls:
     - quarks-statefulset-0.0.1304-g4b4f2ac5.tgz
     version: 0.0.1304-g4b4f2ac5
-generated: "2020-11-21T00:31:48.22626857Z"
+generated: "2020-11-21T01:20:51.469280395Z"
