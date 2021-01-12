@@ -10773,6 +10773,25 @@ entries:
     - quarks-statefulset-0.0.1312-g7cf561f1.tgz
     version: 0.0.1312-g7cf561f1
   - apiVersion: v1
+    appVersion: 0.0.1312-g4d39829a
+    created: "2021-01-12T10:59:36.269689177Z"
+    description: A Helm chart for quarks-statefulset
+    digest: 558d4e2ebba330f60070e9e38aaf1da456444765768e09ee62260d6148f59917
+    home: https://github.com/cloudfoundry-incubator/quarks-statefulset
+    icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
+    keywords:
+    - quarks
+    - statefulset
+    maintainers:
+    - email: project-quarks@googlegroups.com
+      name: project-quarks
+    name: quarks-statefulset
+    sources:
+    - https://github.com/cloudfoundry-incubator/quarks-statefulset
+    urls:
+    - quarks-statefulset-0.0.1312-g4d39829a.tgz
+    version: 0.0.1312-g4d39829a
+  - apiVersion: v1
     appVersion: 0.0.1310-g13cbb807
     created: "2021-01-11T16:07:26.530871728Z"
     description: A Helm chart for quarks-statefulset
@@ -11057,4 +11076,4 @@ entries:
     urls:
     - quarks-statefulset-0.0.1304-g4b4f2ac5.tgz
     version: 0.0.1304-g4b4f2ac5
-generated: "2021-01-11T16:07:26.529708102Z"
+generated: "2021-01-12T10:59:36.268850064Z"
