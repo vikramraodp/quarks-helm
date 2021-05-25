@@ -11,8 +11,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.744
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 9d4f8219a204b7f0b90170c4289b0df80e6da350f8941f047bc6e873ba22ad4c
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -44,8 +43,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.744
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: cb8893522bd1b81878186d866becb01bcc67f6c7dacb71e3e0a6e48e9b014410
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -77,8 +75,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.744
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: f8a9a5b342e34476d121c8d6885fbe4ca93267ea679eea8d88d2285e2414cf94
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -110,8 +107,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.744
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: b45835a3b629cf099901ba37d1ba99744d99ac32a41b35aafc2e445fd74ad016
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -143,8 +139,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.744
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 0fe7b2e940a685b35dcf924817eb859cb7e5512dff6c9ed88349cf36934ae787
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -176,8 +171,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.744
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: b9681197c6e53d115396c5e837a5dbb0fa2c3c26d89cb3e274e3d026a846f6f6
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -209,8 +203,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.744
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 5805ddfe34d626f3b068abc0d1f897ec756269308e6a5d2aedf212378500c220
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -242,8 +235,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.743
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 5aa346b377bb37c83a0011180f512463d977ea21446e9c3082ecb206ca39b15a
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -275,8 +267,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.740
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 3b30a329941acee26832ace2a9b82725359fec8c8d55d98fc8ce282f5bc83920
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -308,8 +299,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.738
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 55d0a51b4ee6fd0e491f31fe83f2378bdf9da174b722dc1d14c0717a4cbfbff7
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -341,8 +331,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.712
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 4d2fd23ab28b765959a35555296c6909573ec557957403046492cc34792a29e5
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -374,8 +363,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.712
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: a1af6afd6e31f494dfad06b515439db0a32db813955c51c452a147b099d3bcf3
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -407,8 +395,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.709
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 42a39ba6d13ba1502aa55159cce85f489e46c694d78bc5e3d090e867ab34b02b
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -440,8 +427,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.692
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: e94e07248bdbd5c7c4bc5a08dc33bc4b5fcb170b0de5e6a7d7cc93ff1a935057
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -473,8 +459,7 @@ entries:
     - name: quarks-secret
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.687
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 9ec73155595820b084859ad3267cbdb5096963799cc0d34cc69a18ee208fbe17
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -503,8 +488,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.159
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: df225af203596ca6dc11131004704632c01579bbaf80f8439b42aa8a5e24a47a
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -531,8 +515,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.86
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 749ae6f72b04fd3ac32d990254c932272a4688e93d55cc9fd07c3827d3ca8528
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -559,8 +542,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.86
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 64a2f93ec84909e5372fd89562d604b7680994535b1d392684dce74ec63bb74e
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -587,8 +569,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.86
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: f5e10f8e3df71e78ca2d4ca121eef5a3b7a9f0c5aaa43abbaf14989f8286391a
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -615,8 +596,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.86
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 3c4227b7156968d15185c0797ed50b871c98b79f54b865939329ea88cd3caceb
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -643,8 +623,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.85
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 9933df62cd30aebd9e7d245956ac3bfa7be0d6cdb7a609d6c36c4f4aa50f1965
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -671,8 +650,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.85
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 972e2793be7c242ffd57783abed29ff06a7b2952a5e26c06935e8fc59cff2705
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -699,8 +677,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.85
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 17dd81516a0cb7328e6961a035ca01a70c95a87815b5a14a92ed42f4ec40a129
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -727,8 +704,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.85
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 57e7694532ec8d1f4a122ffefe1656269f7ec52c91fe082569f4063f7c69172b
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -755,8 +731,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: v0.0.85
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 79b57f9acfc71bb0a0f4d72b02d6eaadf962ca7bf1ba6dcba6c09fc17beaae9e
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -783,8 +758,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 0.0.0+0.g770abf2
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: b218f2692530674ddcc4ee63bc920d232113711a06b4423f0ba5e139c577e422
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -811,8 +785,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 0.0.0+0.g770abf2
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: f61a5b46b13f9a1154e96ecde1bab278a56fd5d16bb956bf5875d0029ce5077d
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -839,8 +812,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 0.0.0+0.g491e84a
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 6ec42f5c02848d3c9117a81b4cbbea79233bbf43f02351f77df714a57a6f5b13
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -867,8 +839,7 @@ entries:
     - name: quarks-job
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 0.0.0+0.g491e84a
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: a7cd1831e56fc285d10454a1d45e99484679cb936268690738d6f41c3230f0ba
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -891,8 +862,7 @@ entries:
   - apiVersion: v1
     appVersion: 4.0.0+1.g97d42f19
     created: "2020-05-15T12:23:51.255692639+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: f4f902c8372038fcdf4a82727ce7ac65a007e5efc832d14377a498520a82572f
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -915,8 +885,7 @@ entries:
   - apiVersion: v1
     appVersion: 3.4.0+0.g0c173836
     created: "2020-05-15T12:23:51.254695612+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 55c831344cd56a0ccd04456f2828bd124911947eda0f488f5596edad2cbb4713
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -939,8 +908,7 @@ entries:
   - apiVersion: v1
     appVersion: 3.3.0+0.gf32b521e
     created: "2020-05-15T12:23:51.253768395+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 522a8d3fe480db90f2fb3b4a2fa62a5aed60c1d5eb526e6f627f0e70dbba2434
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -963,8 +931,7 @@ entries:
   - apiVersion: v1
     appVersion: 3.2.1+0.ga32a3f79
     created: "2020-05-15T12:23:51.252868341+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 93bc3cae7f7e2ae79f5644daf77cdeabb25a30a8a8a44d39035bc2ec5684967d
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -987,8 +954,7 @@ entries:
   - apiVersion: v1
     appVersion: 3.2.0+0.g178ecd31
     created: "2020-05-15T12:23:51.250925749+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: bc981e8e62231147c382a497cd095b256a5970111f7f4329a795ebef5e1fbb80
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1011,8 +977,7 @@ entries:
   - apiVersion: v1
     appVersion: 3.1.0+0.gd5ad8a7d
     created: "2020-05-15T12:23:51.248334771+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: f1714017219bab26214924e04800b2d20ac585d0c0ac7e8411fc345774b5eda8
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1035,8 +1000,7 @@ entries:
   - apiVersion: v1
     appVersion: 3.0.0+0.g4e1038ed
     created: "2020-05-15T12:23:51.244332161+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 5bf0b698bc1f984f3f98a60d636ad5820b7486cfd426597b9ca64f69b01b6e96
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1059,8 +1023,7 @@ entries:
   - apiVersion: v1
     appVersion: 2.3.0+0.g27a91cdf
     created: "2020-05-15T12:23:51.243051523+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 78d2266d127980806c5e6eabca1fdab0f968eba7c63a06167b906fab75c989f7
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1083,8 +1046,7 @@ entries:
   - apiVersion: v1
     appVersion: 2.2.0-0.g3dce81dc
     created: "2020-05-15T12:23:51.241752836+02:00"
-    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH
-      releases
+    description: A Helm chart for cf-operator, the k8s operator for deploying BOSH releases
     digest: 16c073821e0fe0db979ac00617b943b6ad72ac28cfcfd9b45fbd8b40a3711869
     home: https://github.com/cloudfoundry-incubator/cf-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1106,6 +1068,41 @@ entries:
     version: 2.2.0-0.g3dce81dc
   quarks:
   - apiVersion: v1
+    appVersion: 7.2.5+0.gaffa4a5
+    created: "2021-05-25T11:07:59.346448781Z"
+    dependencies:
+    - name: quarks-job
+      repository: https://cloudfoundry-incubator.github.io/quarks-helm
+      version: 1.0.218
+    - name: quarks-secret
+      repository: https://cloudfoundry-incubator.github.io/quarks-helm
+      version: 1.0.758
+    - name: quarks-statefulset
+      repository: https://cloudfoundry-incubator.github.io/quarks-helm
+      version: 1.0.1319
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
+    digest: 42fbb0386a7672893990936b1ae09d3465c09007f68d9a2139f5b06a08c762da
+    home: https://github.com/cloudfoundry-incubator/quarks-operator
+    icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
+    keywords:
+    - cloudfoundry
+    - bosh
+    - quarks
+    - deployment
+    maintainers:
+    - email: project-quarks@googlegroups.com
+      name: project-quarks
+    name: quarks
+    sources:
+    - https://github.com/cloudfoundry-incubator/quarks-operator
+    - https://github.com/cloudfoundry-incubator/quarks-job
+    - https://github.com/cloudfoundry-incubator/quarks-secret
+    - https://github.com/cloudfoundry-incubator/quarks-utils
+    - https://build.opensuse.org/package/show/Cloud:Platform:quarks/quarks-operator-base
+    urls:
+    - quarks-7.2.5+0.gaffa4a5.tgz
+    version: 7.2.5+0.gaffa4a5
+  - apiVersion: v1
     appVersion: 7.2.4+0.gc89962e
     created: "2021-04-22T15:56:38.605519042Z"
     dependencies:
@@ -1118,8 +1115,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.1319
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: c07f1aefa52d5d66a3498a7b31c4841691be949cfd116babb90346cae28df0ba
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1154,8 +1150,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.1319
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: e1bba4e147c3760e3b565ace1b29931d2e644bb48c17819c76af7a40f25fbe81
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1190,8 +1185,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.1319
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: 94ff088bd228a0f43ec39e608301f27f4cc4c3a24cfb330776b824555165030c
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1226,8 +1220,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.1319
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: a1b857be4bbd34857b1ea65ebe4a0dd78a43532327b5ef322cb1f012548a6104
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1262,8 +1255,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.1317
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: 48518f94284c5104f8eb0698f468e15a31674d2fa7e41a7e418132ee5680fbdf
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1298,8 +1290,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.1311
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: ef6bd20180371612a0db4bf6df903415435483508daa01dc62d28b27f00094c2
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1334,8 +1325,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.1310
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: 841189cf7c3589ee18fd277abcbc7b593ea024b6d2a8b948b2dab3c5bbe0b254
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1370,8 +1360,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 1.0.1310
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: 943583138471e707ada26572e6b641448d17586c1097ea56d9cf8a02c1600c50
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1406,8 +1395,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 0.0.1308-g6a8b2220
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: 76ff583ce9bcd42a69d4bfdce508b1d72121985118cdadbeb18c00f8a1e66a48
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1442,8 +1430,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 0.0.1308-g6a8b2220
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: bf73176957e9753a2f263796c0a6d4c6c811ca05ab9142da9eee67f22fd2ac5b
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -1478,8 +1465,7 @@ entries:
     - name: quarks-statefulset
       repository: https://cloudfoundry-incubator.github.io/quarks-helm
       version: 0.0.1308-g6a8b2220
-    description: A Helm chart for quarks-operator, the k8s operator for deploying
-      BOSH releases
+    description: A Helm chart for quarks-operator, the k8s operator for deploying BOSH releases
     digest: a2f23e122a32d6a6afefdc726d8639b067362743dcac86a587437bc18a6dde96
     home: https://github.com/cloudfoundry-incubator/quarks-operator
     icon: https://cloudfoundry-incubator.github.io/quarks-helm/logo.png
@@ -13279,4 +13265,4 @@ entries:
     urls:
     - quarks-statefulset-0.0.1304-g4b4f2ac5.tgz
     version: 0.0.1304-g4b4f2ac5
-generated: "2021-05-25T09:52:59.642383856Z"
+generated: "2021-05-25T11:07:59.342774921Z"
